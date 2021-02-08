@@ -2,4 +2,4 @@
 
 - Added images from top 5 movies $$
 - Added boostrap
-  ![alt progres-1](https://github.com/makyfj/movieList-React/blob/main/progress/movieList-1.pn?raw=true)
+  ![alt progres-1](https://github.com/makyfj/movieList-React/blob/main/progress/movieList-1.png?raw=true)
