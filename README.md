@@ -1,3 +1,4 @@
 # Movie List Application with React
 
-- In progress :D
+- Added images from top 5 movies $$
+- Added boostrap
